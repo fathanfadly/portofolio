@@ -1,0 +1,1 @@
+<?php /**PATH C:\laravel-porto\laravel\resources\views/Dashbor/Example.blade.php ENDPATH**/ ?>
